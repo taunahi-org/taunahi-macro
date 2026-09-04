@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Hypixel-Skyblock-gold?style=for-the-badge&logo=minecraft" alt="Hypixel Skyblock"/>
-  <img src="https://img.shields.io/badge/Version-v4.0-blue?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-v4..1.1-blue?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge" alt="Status"/>
   
   <br><br>
@@ -107,7 +107,7 @@ Maximize combat XP and hourly rates with intelligent auto-walkers and combat scr
 
 ### **Prerequisites**
 Before installing, ensure your Minecraft client is ready by installing the following:
-*   **Fabric Loader** (for Minecraft, version 26.2)
+*   **Fabric Loader** (for Minecraft, version 26.1.2 or 26.2)
 *   **Fabric API** (placed in your `mods` folder)
 *   **Fabric Language Kotlin** (placed in your `mods` folder)
 
