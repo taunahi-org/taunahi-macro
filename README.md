@@ -10,7 +10,7 @@
   <h1>Taunahi Client</h1>
   <p><b>The Ultimate Automated Utility Mod for Hypixel Skyblock</b></p>
   
-  <a href="https://github.com/TaunahiSkyblock/taunahi-skyblock/releases">
+  <a href="https://github.com/taunahi-org/taunahi-macro/releases">
     <img src="https://img.shields.io/badge/⬇️_Download-Latest_Release-2ea44f?style=for-the-badge" alt="Download Latest Release"/>
   </a>
   <br><br>
