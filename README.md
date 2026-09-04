@@ -16,9 +16,9 @@
   <br><br>
 
   <p>
-    <a href="#-core-systems">Core Systems</a> •
-    <a href="#-skill-modules">Skill Modules</a> •
-    <a href="#-installation--setup">Installation</a>
+    <a href="#core-systems">Core Systems</a> •
+    <a href="#skill-modules">Skill Modules</a> •
+    <a href="#installation">Installation</a>
   </p>
 </div>
 
@@ -28,6 +28,7 @@
 
 > **Taunahi** is an industry-leading utility client designed to fully automate Hypixel Skyblock grinding with unmatched precision. From complex pathfinding and humanized movement to the proprietary Hydra Anti-Staff system, Taunahi handles the repetitive tasks so you can focus on progression.
 
+<a id="core-systems"></a>
 ## 🛡️ Core Systems & Protection
 
 Taunahi isn't just about automation; it's about staying under the radar. Our core modules ensure your sessions are safe, stable, and highly profitable.
@@ -49,9 +50,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>🌾 Farming & Garden Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/23197cc5-a7b8-4aad-b95b-7f70f4299ad5" />
-  <img width="32%" alt="pest" src="https://github.com/user-attachments/assets/2d03e83f-5c03-477b-b539-8e01d14f7a71" />
-  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/3df45537-a71c-498a-8c1f-8e3b0f0be720" />
+  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/8045a52a-7de3-4fed-a885-48070f44c05f" />
+  <img width="32%" alt="pest-lasso" src="https://github.com/user-attachments/assets/a6f5e31b-51f7-4d5a-a35b-c2dcbf3b6a80" />
+  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/98985c58-011b-4afe-ab3d-2bb170d522c9" />
 </div>
 </details>
 
@@ -59,9 +60,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>⚔️ Combat & Slayers Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="sven" src="https://github.com/user-attachments/assets/3c70fdd6-9f2a-414d-ab58-b49d8997a293" />
-  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/914849bb-a461-49f1-828c-e46af5a58358" />
-  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/25ee824b-75fd-4484-af1d-54e04f453179" />
+  <img width="32%" alt="sven-cave" src="https://github.com/user-attachments/assets/1ef6c075-7604-491f-ad99-b7a726609482" />
+  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/4a745155-8b20-462b-a80b-20b916e931d4" />
+  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/ec9f5825-8986-47a3-a953-bbd0aee8bf68" />
 </div>
 </details>
 
@@ -69,14 +70,15 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>🌲 Foraging Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/5217f8d3-c0eb-4518-b6a6-7d44b32f5029" />
-  <img width="32%" alt="lushlilac" src="https://github.com/user-attachments/assets/0f39864e-5228-4554-a15f-7ee239c0e6ec" />
-  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/451a068d-c025-42bd-b202-9d9c77b2d57c" />
+  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/2e0909fc-436d-4e49-924d-a0320959cde7" />
+  <img width="32%" alt="lushlilac" src="https://github.com/user-attachments/assets/1a02f95a-ae63-4055-965f-34524c890add" />
+  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/2ceca0a9-3a56-408f-a56d-76e2b4220034" />
 </div>
 </details>
 
 ---
 
+<a id="skill-modules"></a>
 ## 🎯 Skill Modules
 
 Taunahi features hyper-optimized scripts for nearly every skill and task in the game.
@@ -90,20 +92,28 @@ Our Garden scripts adapt to both basic and advanced farm designs with seamless p
 
 ### ⚔️ Combat & Slayers
 Maximize combat XP and hourly rates with intelligent auto-walkers and combat scripts.
-- **Ghosts:** Ultra-profitable script (~45m/hr) optimized for end-game gear.
-- **Slayers:** Fully AFK scripts for Crypt/Rev, Wolf/Sven, and Spider/Tara slayers.
-- **Zealot Melee:** Smooth pathfinder that hunts Zealots in the Dragon's Nest/Bruiser hideout.
+*   **Ghosts:** Ultra-profitable script (~45m/hr) optimized for end-game gear.
+*   **Slayers:** Fully AFK scripts for Crypt/Rev, Wolf/Sven, and Spider/Tara slayers.
+*   **Zealot Melee:** Smooth pathfinder that hunts Zealots in the Dragon's Nest/Bruiser hideout.
 
 ### 🌲 Foraging & 🎣 Fishing
-* **Foraging:** Supports standard Park autowalking, Hub tree clearing, and advanced Galatea routes (Fig, Lushlilac, Mangrove) utilizing jump boost and scaffolding.
-* **Fishing:** Includes *Quick Fishing* (anti-AFK, auto-kill), *Location Fishing* (custom pathfinding routes), and *Worm Fishing* (Solo/Party Loot Share mode).
+*   **Foraging:** Supports standard Park autowalking, Hub tree clearing, and advanced Galatea routes (Fig, Lushlilac, Mangrove) utilizing jump boost and scaffolding.
+*   **Fishing:** Includes *Quick Fishing* (anti-AFK, auto-kill), *Location Fishing* (custom pathfinding routes), and *Worm Fishing* (Solo/Party Loot Share mode).
 
 ---
 
+<a id="installation"></a>
 ## ⚙️ Installation & Setup
 
-1. Go to the [**Releases**](YOUR_REPOSITORY_LINK_HERE/releases) page and download the latest `.zip` file.
-2. **Extract** the contents of the `.zip` file to your computer.
-3. Run the **installer (`.exe`)** included in the extracted folder.
-4. Select your `.minecraft` folder when prompted by the installer.
+### **Prerequisites**
+Before installing, ensure your Minecraft client is ready by installing the following:
+*   **Fabric Loader** (for Minecraft, version 26.2)
+*   **Fabric API** (placed in your `mods` folder)
+*   **Fabric Language Kotlin** (placed in your `mods` folder)
+
+### **Installation Steps**
+1. Go to the [**Releases**](https://github.com/taunahi-client/taunahi-macro/releases) page and download the latest mod `.jar` file.
+2. Locate your `.minecraft` directory and open the **`mods`** folder.
+3. **Move** the downloaded `.jar` file into the `mods` folder.
+4. Launch Minecraft using your Fabric profile.
 5. **Enjoy** your fully automated Skyblock experience!
