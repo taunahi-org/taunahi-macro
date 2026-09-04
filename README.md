@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge" alt="Status"/>
   
   <br><br>
-  
-  <img width="150" height="150" alt="taunahi" src="https://github.com/user-attachments/assets/e4e4ecf0-699c-49a5-9a0b-1a2ae3ea2057" style="border-radius: 20px;" />
+
+  <img width="150" height="150" alt="taunahi" src="https://github.com/user-attachments/assets/7dd71980-5f79-4609-969c-630d2e09b5a0" style="border-radius: 20px;" />
 
   <h1>Taunahi Client</h1>
   <p><b>The Ultimate Automated Utility Mod for Hypixel Skyblock</b></p>
@@ -49,9 +49,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>🌾 Farming & Garden Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/78abe77e-c014-43da-97ce-39116847cf4f" />
-  <img width="32%" alt="pest" src="https://github.com/user-attachments/assets/24a47d52-4909-452f-9a88-cc0966b0478a" />
-  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/fbb385ab-7627-4353-aa89-ff245e8493e0" />
+  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/23197cc5-a7b8-4aad-b95b-7f70f4299ad5" />
+  <img width="32%" alt="pest" src="https://github.com/user-attachments/assets/2d03e83f-5c03-477b-b539-8e01d14f7a71" />
+  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/3df45537-a71c-498a-8c1f-8e3b0f0be720" />
 </div>
 </details>
 
@@ -59,9 +59,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>⚔️ Combat & Slayers Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="sven" src="https://github.com/user-attachments/assets/deed4708-0045-4e84-a875-e807a99a79f3" />
-  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/00986cac-f81d-49ce-93e0-be213f517a8b" />
-  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/7711862d-557b-4c3b-83ac-da5990216233" />
+  <img width="32%" alt="sven" src="https://github.com/user-attachments/assets/3c70fdd6-9f2a-414d-ab58-b49d8997a293" />
+  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/914849bb-a461-49f1-828c-e46af5a58358" />
+  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/25ee824b-75fd-4484-af1d-54e04f453179" />
 </div>
 </details>
 
@@ -69,9 +69,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>🌲 Foraging Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/71b4a213-e810-4516-aaee-c66fcbfbfb23" />
-  <img width="32%" alt="park" src="https://github.com/user-attachments/assets/3255aacb-773d-4471-8b33-62a4ff99cd36" />
-  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/b2d61f07-df0b-4de8-9088-ced29e482d91" />
+  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/5217f8d3-c0eb-4518-b6a6-7d44b32f5029" />
+  <img width="32%" alt="lushlilac" src="https://github.com/user-attachments/assets/0f39864e-5228-4554-a15f-7ee239c0e6ec" />
+  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/451a068d-c025-42bd-b202-9d9c77b2d57c" />
 </div>
 </details>
 
